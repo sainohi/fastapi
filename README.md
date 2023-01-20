@@ -49,10 +49,8 @@ Test out the API endpoints:
 
 ## Docker build
 
-1. cd [repository name]
-   
-   # to build the docker image
-2. docker build . -t <tag name>
+1. cd [repository name]   
+2. to build the docker image >> use this command #docker build . -t fastapi
 
 
 
