@@ -50,7 +50,7 @@ Test out the API endpoints:
 ## Docker build
 
 1. cd [repository name]   
-2. to build the docker image >> use this command #docker build . -t fastapi
+2. Use this command to build the docker image >>  docker build . -t fastapi
 
 
 
