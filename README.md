@@ -47,6 +47,15 @@ Test out the API endpoints:
 3. In your browser, go to http://localhost:8000/docs 
 
 
+## Docker build
+
+1. cd [repository name]
+   
+   # to build the docker image
+2. docker build . -t <tag name>
+
+
+
 ## Resources
 
 - Learn more about Azure Cosmos DB SQL API  - https://docs.microsoft.com/en-us/azure/cosmos-db/sql/
